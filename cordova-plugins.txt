@@ -1,0 +1,5 @@
+cordova-plugin-device 1.0.1 "Device"
+cordova-plugin-file 2.1.0 "File"
+cordova-plugin-geolocation 1.0.1 "Geolocation"
+cordova-plugin-media 1.0.1 "Media"
+cordova-plugin-whitelist 1.0.0 "Whitelist"

@@ -1,0 +1,14 @@
+<ion-view ng-controller='AudiostationCtrl' view-title="{{title}} - {{segment.address}}">
+  <ion-content data-tap-disabled="true" >
+    <div class='descr'>
+        <h3>{{segment.address}}</h3>
+        <h2>{{segment.title}}</h2>
+        <h3>{{segment.subtitle}}</h3>
+    </div>
+  </ion-content>
+      <ion-footer-bar class="bar-dark">
+        <button class="button" ng-click="myaudio.play()">Play</button>
+        <button class="button" ng-click="myaudio.pause()">Pause</button>
+        <button class="button" ng-click="myaudio.stop()">Stop</button>
+    </ion-footer-bar>
+</ion-view>
