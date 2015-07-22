@@ -1,6 +1,5 @@
 # ionic-audioguide
 An audioguide app with geolocation and media streaming support for the ionic framework
-ionic
 
 # Howto 
 These files will not run standalone, you have to create a new ionic app to make use of them. The interesting code is in www/js/controllers.js and www/js/app.js
