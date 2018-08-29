@@ -5,7 +5,7 @@ An audioguide app with geolocation and media streaming support for the ionic fra
 These files will not run standalone, you have to create a new ionic app to make use of them. The interesting code is in www/js/controllers.js and www/js/app.js
 
 # Webserver and JSON
-You will need a webserver which serves the media files and handles the JSON requests. The code for a django based solution will soon be published and linked from here. 
+You will need a webserver which serves the media files and handles the JSON requests.
 
 # Cordova plugins
 Listing of needed cordova plugins in cordova-plugins.txt.
